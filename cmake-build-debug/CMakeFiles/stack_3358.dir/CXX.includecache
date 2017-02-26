@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/stack_3358/T_list_3358.h
+assert.h
+-
+
+C:/Users/Adam/CLionProjects/stack_3358/main.cpp
+cstdlib
+-
+sstream
+-
+iostream
+-
+cstring
+-
+string
+-
+stack_3358.h
+C:/Users/Adam/CLionProjects/stack_3358/stack_3358.h
+
+C:/Users/Adam/CLionProjects/stack_3358/stack_3358.h
+T_list_3358.h
+C:/Users/Adam/CLionProjects/stack_3358/T_list_3358.h
+assert.h
+-
+
